@@ -65,9 +65,9 @@ Target labels:
 
 ## 📈 Results & Insights
 
-* **Best Model:** (e.g., SVM with XX% accuracy)
-* **Key Insight:** Certain spinal angles (e.g., pelvic incidence) show strong correlation with abnormal conditions
-* **Observation:** Feature scaling significantly improved model performance for distance-based models (e.g., KNN, SVM)
+* **Best Model:** 
+* **Key Insight:** 
+* **Observation:** 
 
 ---
 
